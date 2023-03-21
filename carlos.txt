@@ -45,11 +45,3 @@ ff02::3 ip6-allhosts
 0.0.0.0 newcasinos.bg
 0.0.0.0 casinoonlineperu.pe
 0.0.0.0 casinoadvisor.com
-0.0.0.0 crazyvegas.com
-0.0.0.0 legal-gambling-usa.com
-0.0.0.0 pokerforums.org
-0.0.0.0 youtube.com
-0.0.0.0 betplay.com
-0.0.0.0 sportingpedia.com
-0.0.0.0 casinoestrella100.com
-0.0.0.0 247bets.co.za
